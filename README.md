@@ -35,8 +35,3 @@ To use the PDF Text Extractor, follow these steps:
 ## Contributing
 
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and use the code as per the license terms.
-
